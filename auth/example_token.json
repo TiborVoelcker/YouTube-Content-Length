@@ -1,0 +1,1 @@
+{"token": "<token>", "refresh_token": "<refresh_token>", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "<id>.apps.googleusercontent.com", "client_secret": "<client_secret>", "scopes": ["https://www.googleapis.com/auth/youtube.readonly"], "universe_domain": "googleapis.com", "expiry": "2222-01-01T00:00:00.000000Z"}
